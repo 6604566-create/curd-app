@@ -1,6 +1,6 @@
 A simple React + Vite frontend application connected to a Node.js backend for CRUD operations.
 
-git clone https://github.com/YOUR-USERNAME/management-web.git
+git clone https://github.com/YOUR-USERNAME/curd-app.git
 cd "management-web/client"
 npm install
 npm run dev
@@ -41,3 +41,4 @@ client/
 
 Build for Production
 npm run build
+
